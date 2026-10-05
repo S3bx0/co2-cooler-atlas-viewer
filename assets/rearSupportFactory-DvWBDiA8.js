@@ -1,1 +1,0 @@
-import{a as e}from"./cadRearSupport-DLFU7GFQ.js";var t=()=>e();export{t as buildAdaptedSupport};

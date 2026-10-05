@@ -19,10 +19,12 @@ remain excluded. `authenticated` and `sourceCi` remain null; no separate grant f
 the authenticated build target or cloud processing of the original was recorded.
 Local preview trees remain ignored and are not public upload artifacts.
 
-Commit/push and application publication were also approved on October 5. Hosting
-activation remains blocked by the Pages HTTP 422 plan response and Vercel HTTP 403
-team-authentication response; no live deployment is confirmed. See
-[delivery and hosting](docs/model-delivery.md) for the prepared root-base alternative.
+Commit/push and application publication were also approved on October 5. A
+separate public artifact repository supplies the compiled application and these
+approved packets; the source repository remains private. No original CAD or
+private project history is copied into that artifact repository. See
+[delivery and hosting](docs/model-delivery.md) for deployment verification and the
+still-inactive automatic connection from private source updates.
 
 Historical descriptions below refer to the earlier loopback development stages.
 Their statements excluding packets from Git or production describe those stages
