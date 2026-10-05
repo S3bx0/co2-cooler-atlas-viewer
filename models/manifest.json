@@ -1,0 +1,129 @@
+{
+  "schema": "atlas-model-package-v1",
+  "modelId": "current-2kh-3ar",
+  "generatorFingerprint": "FD14A1B9B3DDCAA472D1882AC81754CFC0A38603C4C7B3E7E5F9E20F21B53DF0",
+  "sourceHash": "EE7A05F0CA9BDF4A8093916D4773A6CE968F31E24148EA783C74DF80DEDC1DB6",
+  "assets": [
+    {
+      "id": "hybrid",
+      "endpoint": "/__cad-hybrid__/independent-parts.glb",
+      "file": "models/hybrid.ec281ebb1de5e7e44facd268f01127288791c3289eb47e76912f13a46bdd4705.glb.gz.bin",
+      "sha256": "1DB2F367975C89294C2B79B1F14728AB413A5D583D46DBC45CA75DBBBAA67636",
+      "bytes": 1421600,
+      "storedSha256": "EC281EBB1DE5E7E44FACD268F01127288791C3289EB47E76912F13A46BDD4705",
+      "storedBytes": 494720,
+      "encoding": "gzip",
+      "mediaType": "model/gltf-binary"
+    },
+    {
+      "id": "roof",
+      "endpoint": "/__cad-core__/roof.json",
+      "file": "models/roof.cc7f69264f6fc6b18d53d4c6f02f107287d46e210ce1251d21f9aa882bf7c9ec.json.gz.bin",
+      "sha256": "4E67D7D14E173A5FC4A831A8B1BFD0874228A189160915639B4AC1A19F54D218",
+      "bytes": 64199,
+      "storedSha256": "CC7F69264F6FC6B18D53D4C6F02F107287D46E210CE1251D21F9AA882BF7C9EC",
+      "storedBytes": 5601,
+      "encoding": "gzip",
+      "mediaType": "application/json"
+    },
+    {
+      "id": "sides",
+      "endpoint": "/__cad-core__/sides.json",
+      "file": "models/sides.0e3cdb2dfdda312ba86036b0c87f0f71db7e5d5ca4b4e218c36f1ccb9ec4428f.json.gz.bin",
+      "sha256": "26888FB9B02A197145C65411C25E8CAECEE32A96A2892A38E48ACCAE5FDA4C45",
+      "bytes": 35382,
+      "storedSha256": "0E3CDB2DFDDA312BA86036B0C87F0F71DB7E5D5CA4B4E218C36F1CCB9EC4428F",
+      "storedBytes": 2933,
+      "encoding": "gzip",
+      "mediaType": "application/json"
+    },
+    {
+      "id": "front",
+      "endpoint": "/__cad-core__/front.json",
+      "file": "models/front.1ce5daecf43d848ddf5c07aebdc50b1aa2ef958c423573c0262f1d6f9eece910.json.gz.bin",
+      "sha256": "CC015A0096C44B666AD912F304DD12D261C6119489974C0FBED2717482BE1E43",
+      "bytes": 1082466,
+      "storedSha256": "1CE5DAECF43D848DDF5C07AEBDC50B1AA2EF958C423573C0262F1D6F9EECE910",
+      "storedBytes": 94917,
+      "encoding": "gzip",
+      "mediaType": "application/json"
+    },
+    {
+      "id": "fans",
+      "endpoint": "/__cad-core__/fans.json",
+      "file": "models/fans.93dca44b7ad5703292f8c6fb15c162be038e80d8863cfdc9a22f0bbc8ece4fcb.json.gz.bin",
+      "sha256": "A218885002968557582B34A79FF51770E1E596508727067F1203DC06CC5F734C",
+      "bytes": 5966373,
+      "storedSha256": "93DCA44B7AD5703292F8C6FB15C162BE038E80D8863CFDC9A22F0BBC8ECE4FCB",
+      "storedBytes": 811509,
+      "encoding": "gzip",
+      "mediaType": "application/json"
+    },
+    {
+      "id": "fanStatic",
+      "endpoint": "/__cad-core__/fan-static.json",
+      "file": "models/fanStatic.2b30f95a9e39f7526f4fe09732828bfafa15002226bc0067a91b79081d1cb505.json.gz.bin",
+      "sha256": "B01ABA0858F3ECB0C095599723FDF5479B82ECEB1D3E9477458452A3A20AFF0D",
+      "bytes": 11813545,
+      "storedSha256": "2B30F95A9E39F7526F4FE09732828BFAFA15002226BC0067A91B79081D1CB505",
+      "storedBytes": 1144868,
+      "encoding": "gzip",
+      "mediaType": "application/json"
+    },
+    {
+      "id": "fanGuard",
+      "endpoint": "/__cad-core__/fan-guard.json",
+      "file": "models/fanGuard.7b21eb40656de9865576d682b10fb9152e0961a909f79a988baf3b228ed0ae0c.json.gz.bin",
+      "sha256": "8DE596C0BF91C15FB5D256901771902A8397576107141686F1511BD9DC99B806",
+      "bytes": 9843157,
+      "storedSha256": "7B21EB40656DE9865576D682B10FB9152E0961A909F79A988BAF3B228ED0AE0C",
+      "storedBytes": 1040846,
+      "encoding": "gzip",
+      "mediaType": "application/json"
+    },
+    {
+      "id": "fanJunctions",
+      "endpoint": "/__cad-core__/fan-junctions.json",
+      "file": "models/fanJunctions.2403df5d21113df5a94a0f1e75e2d92253cfee5421fb1b375b61454c112fdf39.json.gz.bin",
+      "sha256": "0722B83995E5B47CBE6BA74BF045F3C108F21929CDEC6C54A3A9039621245D3B",
+      "bytes": 2843833,
+      "storedSha256": "2403DF5D21113DF5A94A0F1E75E2D92253CFEE5421FB1B375B61454C112FDF39",
+      "storedBytes": 378363,
+      "encoding": "gzip",
+      "mediaType": "application/json"
+    },
+    {
+      "id": "exchangerInterfaces",
+      "endpoint": "/__cad-core__/exchanger-interfaces.json",
+      "file": "models/exchangerInterfaces.9ff81bb5a00938079834d97e2564b8e49e107d994c2b5a105303ed9ca3dd7721.json.gz.bin",
+      "sha256": "E9A6A4E8D40D7F1E5042D9DA1B0B4B23E012A18B3B0AE210CB66E7D077526BDC",
+      "bytes": 75274,
+      "storedSha256": "9FF81BB5A00938079834D97E2564B8E49E107D994C2B5A105303ED9CA3DD7721",
+      "storedBytes": 5765,
+      "encoding": "gzip",
+      "mediaType": "application/json"
+    },
+    {
+      "id": "rearSupport",
+      "endpoint": "/__cad-core__/rear-support-bands.json",
+      "file": "models/rearSupport.4ec94ef93fb7395cbd636437388cd549e8169296c2ed6c97c5ba9604a46e3e03.json.gz.bin",
+      "sha256": "5FBF83F72EDC3AECBEB6CCCD84B4187FADF00E8FF24D2A500543936EE48D0F12",
+      "bytes": 22867,
+      "storedSha256": "4EC94EF93FB7395CBD636437388CD549E8169296C2ED6C97C5BA9604A46E3E03",
+      "storedBytes": 2058,
+      "encoding": "gzip",
+      "mediaType": "application/json"
+    },
+    {
+      "id": "exchangerCentre",
+      "endpoint": "/__cad-core__/exchanger-centre.json",
+      "file": "models/exchangerCentre.53e9b0383c9d69b8b76504a5f179d821500bd567391a98f9a4d528d4b14fb517.json.gz.bin",
+      "sha256": "AA2ACB19349DAA6F4A2B0D10A3B6227F0C724EFB97D6F8B91099BA04A1320BB7",
+      "bytes": 3109,
+      "storedSha256": "53E9B0383C9D69B8B76504A5F179D821500BD567391A98F9A4D528D4B14FB517",
+      "storedBytes": 834,
+      "encoding": "gzip",
+      "mediaType": "application/json"
+    }
+  ]
+}

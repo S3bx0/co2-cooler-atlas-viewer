@@ -1,0 +1,7 @@
+{
+  "schema": "atlas-build-target-v1",
+  "target": "public",
+  "base": "/co2-cooler-atlas-viewer/",
+  "model": "current-2kh-3ar",
+  "generatorFingerprint": "FD14A1B9B3DDCAA472D1882AC81754CFC0A38603C4C7B3E7E5F9E20F21B53DF0"
+}
